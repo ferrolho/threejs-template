@@ -1,0 +1,3 @@
+[submodule "src/gamepad.js"]
+	path = src/gamepad.js
+	url = https://github.com/neogeek/gamepad.js.git
